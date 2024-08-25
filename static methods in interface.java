@@ -9,3 +9,14 @@ public class MyClass implements A {
         A.sayHello();
     }
 }
+
+
+
+package staticMethods;
+
+public interface MyInterface {
+    public static void main(String[] args) {
+        System.out.println("Hello from Interface");
+    }
+}
+
