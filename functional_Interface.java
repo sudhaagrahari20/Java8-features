@@ -1,4 +1,4 @@
-package lambda;
+package functionalInterface;
 
 //@FunctionalInterface
 
@@ -10,5 +10,5 @@ public interface MyInterface {
     public static void sayOk(){
 
     };
-    
+
 }
