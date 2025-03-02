@@ -1,3 +1,5 @@
+//Syntax-> ClassName::new
+
 import java.util.function.Function;
 class Person {
     String name;
