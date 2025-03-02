@@ -1,3 +1,5 @@
+//Syntax-> object::instanceMethod
+
 //Example-1
 class Printer{
     void printMessage(){
