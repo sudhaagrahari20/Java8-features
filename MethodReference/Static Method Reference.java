@@ -1,3 +1,4 @@
+//Syntax-> ClassName::staticMethod
 //Example-1
 public class Main{
     public static void sayHello(){
